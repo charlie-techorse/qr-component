@@ -1,7 +1,5 @@
 .panel {
   background-color: var(--panel-bg);
-  height: 72vh;
-  width: 80vw;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
