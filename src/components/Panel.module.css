@@ -23,3 +23,8 @@
   font-size: 25px;
   color: var(--panel-fg);
 }
+
+.paragraph {
+  color: var(--panel-text);
+  font-size: 18px;
+}
