@@ -1,0 +1,19 @@
+:root {
+  --background: #d5e1ef;
+  --panel-bg: #ffffff;
+  --panel-fg: #1f304d;
+  --panel-text: #848799;
+}
+
+body {
+  background-color: var(--background);
+  height: 100vh;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
