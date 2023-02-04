@@ -1,6 +1,6 @@
 .panel {
   background-color: var(--panel-bg);
-  height: 80vh;
+  height: 72vh;
   width: 80vw;
   border-radius: 20px;
   display: flex;
