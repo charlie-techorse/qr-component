@@ -1,14 +1,15 @@
 :root {
-  --background: #d5e1ef;
-  --panel-bg: #ffffff;
-  --panel-fg: #1f304d;
-  --panel-text: #848799;
+  --background: hsl(212, 45%, 89%);
+  --panel-bg: hsl(0, 0%, 100%);
+  --panel-fg: hsl(218, 44%, 22%);
+  --panel-text: hsl(220, 15%, 55%);
 }
 
 body {
   background-color: var(--background);
   height: 100vh;
   margin: 0;
+  font-family: "Outfit", sans-serif;
 }
 
 #root {

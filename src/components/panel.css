@@ -5,24 +5,25 @@
   flex-direction: column;
   align-items: center;
   padding: 20px 20px;
+  max-width: 300px;
 }
 
-.qr {
+.panel__img {
   border-radius: 20px;
   width: 100%;
 }
 
-.text {
+.panel__text {
   padding: 0.5rem;
   text-align: center;
 }
 
-.title {
+.panel__title {
   font-size: 25px;
   color: var(--panel-fg);
 }
 
-.paragraph {
+.panel__paragraph {
   color: var(--panel-text);
-  font-size: 18px;
+  font-size: 15px;
 }
